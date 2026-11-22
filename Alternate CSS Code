@@ -726,7 +726,7 @@ span.requested {
   color: #E0E8D3;
 }
 
-#dashboard.own,
+#dashboard,
 .dashboard .own {
   background: rgba(23, 25, 19, 0.7);
   border: 3px solid transparent;
